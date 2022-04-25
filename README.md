@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Christofer-Cruz
+- 👀 I’m interested in sports analytics, logistics, and artificial intelligence
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: https://www.linkedin.com/in/christofer-cruz/ or email christofergabrielcruz@gmail.com
+- 🔭  I’m currently working on my own version of fantasy basketball
